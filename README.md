@@ -15,3 +15,5 @@
 
 **Sample report**: <把你的 Notion 报告链接贴这里>  
 **Upwork profile**: <贴你的 Upwork 主页链接>
+![Device Matrix](device-matrix.png)
+![Checklist Sample](checklist-sample.png)
